@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza Jahangiri</h1>
 <h3 align="center">A passionate Android developer from Iran🇮🇷</h3>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.webp" width="200"/>
+  <img src="https://i.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.webp" width="220" align="right"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezajahangiri&label=Profile%20views&color=0e75b6&style=flat" alt="alirezajahangiri" /> </p>
