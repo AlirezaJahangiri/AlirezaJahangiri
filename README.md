@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/imalireza_io" target="blank"><img src="https://img.shields.io/twitter/follow/imalireza_io?logo=twitter&style=for-the-badge" alt="imalireza_io" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, Api, JetPackCompose**
 
 - 💬 Ask me about **Android**
 
