@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://yourdomain.com/banner.jpg" alt="Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQHvLzMcY9l7Mw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688210618979?e=2147483647&v=beta&t=YHiWBbCSMeSOmhKW0L7y6HkNJhJsWFYhnvlNPy4HXtk" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ali</h1>
