@@ -41,6 +41,6 @@
 
 Feel free to connect with me:
 
-- 📸 [Instagram](https://instagram.com/YOUR_USERNAME)
-- ✉️ [Telegram](https://t.me/YOUR_USERNAME)
-- 📨 Email: **your.email@example.com**
+- 📸 [Instagram](https://instagram.com/alrzajahangiri)
+- ✉️ [Telegram](https://t.me/AlirezaJHG)
+- 📨 Email: **al.jahangiri82@gmail.com**
