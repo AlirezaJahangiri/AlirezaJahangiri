@@ -37,38 +37,10 @@
 
 ---
 
-## 📁 Projects
-
-Here are some of the projects I’ve built recently:
-
-| Project | Tech | Live Demo |
-|--------|------|-----------|
-| **Carvago Simulation** | HTML, CSS | [🔗 View](https://carvago-simiulation.vercel.app) |
-| **Portfolio Website** | Next.js, Tailwind | [🔗 View](https://yourportfolio.vercel.app) |
-| **Product Landing Page** | React, CSS | [🔗 View](https://example.com/project3) |
-
----
-
 ## 📫 Contact
 
 Feel free to connect with me:
 
 - 📸 [Instagram](https://instagram.com/YOUR_USERNAME)
 - ✉️ [Telegram](https://t.me/YOUR_USERNAME)
-- 🌐 [Portfolio Website](https://yourportfolio.vercel.app)
 - 📨 Email: **your.email@example.com**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views" alt="views" />
-</p>
