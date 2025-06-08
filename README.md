@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQHvLzMcY9l7Mw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688210618979?e=2147483647&v=beta&t=YHiWBbCSMeSOmhKW0L7y6HkNJhJsWFYhnvlNPy4HXtk" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Ali</h1>
+<h1 align="center">Hi there 👋, I'm Alireza Jahangiri</h1>
 <h3 align="center">A passionate Front-End Web Developer focused on building clean, responsive websites with React and Next.js</h3>
 
 ---
@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me
 
 - 🌍 Based in: **Iran**  
-- 💼 Currently learning: **TypeScript** & **Tailwind CSS**
 - 🚀 Passionate about building modern, responsive, and SEO-optimized web apps  
 - 🛠️ Tools I work with daily: `VS Code`, `Figma`, `Git`, `Vercel`
 
